@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "bike_math.h": "c",
+        "bike_store.h": "c"
+    }
+}
