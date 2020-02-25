@@ -1,0 +1,9 @@
+C:\Users\wjrij\Documents\fhict\Tweede semester\gemaakte opdrachten\T-OOP2-DB-T21T\Herhaling semester 1\studenten cijfers\studenten cijfers\bin\Debug\studenten cijfers.exe.config
+C:\Users\wjrij\Documents\fhict\Tweede semester\gemaakte opdrachten\T-OOP2-DB-T21T\Herhaling semester 1\studenten cijfers\studenten cijfers\bin\Debug\studenten cijfers.exe
+C:\Users\wjrij\Documents\fhict\Tweede semester\gemaakte opdrachten\T-OOP2-DB-T21T\Herhaling semester 1\studenten cijfers\studenten cijfers\bin\Debug\studenten cijfers.pdb
+C:\Users\wjrij\Documents\fhict\Tweede semester\gemaakte opdrachten\T-OOP2-DB-T21T\Herhaling semester 1\studenten cijfers\studenten cijfers\obj\Debug\studenten cijfers.csprojAssemblyReference.cache
+C:\Users\wjrij\Documents\fhict\Tweede semester\gemaakte opdrachten\T-OOP2-DB-T21T\Herhaling semester 1\studenten cijfers\studenten cijfers\obj\Debug\studenten_cijfers.Form1.resources
+C:\Users\wjrij\Documents\fhict\Tweede semester\gemaakte opdrachten\T-OOP2-DB-T21T\Herhaling semester 1\studenten cijfers\studenten cijfers\obj\Debug\studenten_cijfers.Properties.Resources.resources
+C:\Users\wjrij\Documents\fhict\Tweede semester\gemaakte opdrachten\T-OOP2-DB-T21T\Herhaling semester 1\studenten cijfers\studenten cijfers\obj\Debug\studenten cijfers.csproj.GenerateResource.cache
+C:\Users\wjrij\Documents\fhict\Tweede semester\gemaakte opdrachten\T-OOP2-DB-T21T\Herhaling semester 1\studenten cijfers\studenten cijfers\obj\Debug\studenten cijfers.exe
+C:\Users\wjrij\Documents\fhict\Tweede semester\gemaakte opdrachten\T-OOP2-DB-T21T\Herhaling semester 1\studenten cijfers\studenten cijfers\obj\Debug\studenten cijfers.pdb

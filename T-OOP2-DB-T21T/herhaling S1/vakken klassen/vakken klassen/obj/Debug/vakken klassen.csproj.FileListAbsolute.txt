@@ -1,0 +1,9 @@
+C:\Users\wjrij\Documents\fhict\Tweede semester\gemaakte opdrachten\T-OOP2-DB-T21T\Herhaling semester 1\vakken klassen\vakken klassen\obj\Debug\vakken klassen.csprojAssemblyReference.cache
+C:\Users\wjrij\Documents\fhict\Tweede semester\gemaakte opdrachten\T-OOP2-DB-T21T\Herhaling semester 1\vakken klassen\vakken klassen\obj\Debug\vakken_klassen.Form1.resources
+C:\Users\wjrij\Documents\fhict\Tweede semester\gemaakte opdrachten\T-OOP2-DB-T21T\Herhaling semester 1\vakken klassen\vakken klassen\obj\Debug\vakken_klassen.Properties.Resources.resources
+C:\Users\wjrij\Documents\fhict\Tweede semester\gemaakte opdrachten\T-OOP2-DB-T21T\Herhaling semester 1\vakken klassen\vakken klassen\obj\Debug\vakken klassen.csproj.GenerateResource.cache
+C:\Users\wjrij\Documents\fhict\Tweede semester\gemaakte opdrachten\T-OOP2-DB-T21T\Herhaling semester 1\vakken klassen\vakken klassen\bin\Debug\vakken klassen.exe.config
+C:\Users\wjrij\Documents\fhict\Tweede semester\gemaakte opdrachten\T-OOP2-DB-T21T\Herhaling semester 1\vakken klassen\vakken klassen\bin\Debug\vakken klassen.exe
+C:\Users\wjrij\Documents\fhict\Tweede semester\gemaakte opdrachten\T-OOP2-DB-T21T\Herhaling semester 1\vakken klassen\vakken klassen\bin\Debug\vakken klassen.pdb
+C:\Users\wjrij\Documents\fhict\Tweede semester\gemaakte opdrachten\T-OOP2-DB-T21T\Herhaling semester 1\vakken klassen\vakken klassen\obj\Debug\vakken klassen.exe
+C:\Users\wjrij\Documents\fhict\Tweede semester\gemaakte opdrachten\T-OOP2-DB-T21T\Herhaling semester 1\vakken klassen\vakken klassen\obj\Debug\vakken klassen.pdb
